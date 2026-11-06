@@ -1,0 +1,353 @@
+ticker,year,market_cap_ron,market_cap_usd,usd_ron_rate_bnr,source
+TLV,2014,4977254326,1350020160,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+TLV,2015,7353188939,1772835292,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+TLV,2016,8695823983,2020733851,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+TLV,2017,9247265930,2376272884,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+TLV,2018,9649024533,2368672558,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+TLV,2019,13535307015,3176705552,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+TLV,2020,12909824210,3255124612,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+TLV,2021,16283591774,3725625592,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+TLV,2022,14096552001,3041589781,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+TLV,2023,19375448732,4309677640,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+TLV,2024,24755755842,5182497873,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+BRD,2014,6097888282,1653978594,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+BRD,2015,8432508367,2033056481,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+BRD,2016,8279190033,1923916537,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+BRD,2017,8990029582,2310170778,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+BRD,2018,7944677305,1950284099,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+BRD,2019,11038920045,2590809248,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+BRD,2020,10355956557,2611184205,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+BRD,2021,12335156868,2822238284,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+BRD,2022,9059719734,1954800788,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+BRD,2023,12488475202,2777809334,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+BRD,2024,12990244295,2719444878,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+SNG,2014,13628536064,3696575910,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+SNG,2015,10483489280,2527542802,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+SNG,2016,9635560000,2239109521,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+SNG,2017,12063721120,3100018276,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+SNG,2018,10714742720,2630288374,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+SNG,2019,14299171040,3355982689,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+SNG,2020,10830369440,2730804196,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+SNG,2021,15031473600,3439145583,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+SNG,2022,14549695600,3139363829,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+SNG,2023,19309662240,4295044762,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+SNG,2024,19810711360,4147276704,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+SNN,2014,2180998531,591569527,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+SNN,2015,1935718923,466696946,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+SNN,2016,1448774054,336665827,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+SNN,2017,2170899727,557856797,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+SNN,2018,2460353024,603975114,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+SNN,2019,4299587515,1009103341,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+SNN,2020,5387359946,1358386270,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+SNN,2021,14177263018,3243705360,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+SNN,2022,12910358663,2785646801,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+SNN,2023,14810715195,3294344765,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+SNN,2024,12533303795,2623786592,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+SNP,2014,23110796200,6268524520,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+SNP,2015,16426791417,3960457945,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+SNP,2016,14784112275,3435529077,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+SNP,2017,16200214983,4162974427,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+SNP,2018,16936588392,4157646404,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+SNP,2019,25319916425,5942526386,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+SNP,2020,20590133379,5191662476,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+SNP,2021,28265410059,6467021314,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+SNP,2022,26170900164,5646851975,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+SNP,2023,35798052724,7962554545,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+SNP,2024,44178971944,9248654318,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+TEL,2014,2145582966,581963482,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+TEL,2015,2136786589,515173853,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+TEL,2016,2140451746,497397752,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+TEL,2017,1799592136,462441767,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+TEL,2018,1576017553,386885692,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+TEL,2019,1447737054,339780570,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+TEL,2020,1876560435,473161986,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+TEL,2021,1649320695,377358477,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+TEL,2022,1590678181,343218008,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+TEL,2023,2206424574,490774628,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+TEL,2024,2763528453,578531329,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+TGN,2014,3095343587,839574587,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+TGN,2015,3261354788,786304407,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+TGN,2016,3461510136,804385038,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+TGN,2017,4521156096,1161802928,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+TGN,2018,3720534704,913328433,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+TGN,2019,4238583840,994785918,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+TGN,2020,3331997852,840140659,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+TGN,2021,2778627184,635739626,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+TGN,2022,3243694022,699886511,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+TGN,2023,3552875165,790265395,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+TGN,2024,4417546268,924791967,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+ALR,2014,827983796,224580611,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+ALR,2015,942188458,227159259,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+ALR,2016,835121587,194065389,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+ALR,2017,2334057771,599783572,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+ALR,2018,2198439735,539679825,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+ALR,2019,1670243175,392002247,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+ALR,2020,1598865262,403143031,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+ALR,2021,1284802443,293958049,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+ALR,2022,1120633241,241797187,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+ALR,2023,1099219867,244499281,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+ALR,2024,1074237598,224886451,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+ATB,2014,392732753,106524019,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+ATB,2015,357151837,86108406,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+ATB,2016,349095780,81122808,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+ATB,2017,361179865,92812505,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+ATB,2018,326941625,80258647,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+ATB,2019,341039724,80041242,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+ATB,2020,326270287,82266840,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+ATB,2021,406830852,93081395,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+ATB,2022,379977330,81987082,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+ATB,2023,936516565,208309214,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+ATB,2024,1718625382,359785920,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+ARS,2014,281713282,76411327,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+ARS,2015,414194664,99861288,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+ARS,2016,497947261,115712886,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+ARS,2017,715704015,183914690,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+ARS,2018,738545632,181300479,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+ARS,2019,814684357,191204552,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+ARS,2020,651747486,164333708,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+ARS,2021,1256288962,287434270,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+ARS,2022,1172536365,252996238,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+ARS,2023,1332427687,296371655,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+ARS,2024,1291312776,270330090,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+DIGI,2014,,,3.6868,not listed on BVB at year-end
+DIGI,2015,,,4.1477,not listed on BVB at year-end
+DIGI,2016,,,4.3033,not listed on BVB at year-end
+DIGI,2017,3800000000,976487216,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+DIGI,2018,2560000000,628436764,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+DIGI,2019,3340000000,783890349,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+DIGI,2020,3470000000,874936964,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+DIGI,2021,4100000000,938064841,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+DIGI,2022,3150000000,679670306,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+DIGI,2023,4400000000,978691223,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+DIGI,2024,6400000000,1339809077,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+M,2014,,,3.6868,not listed on BVB at year-end
+M,2015,,,4.1477,not listed on BVB at year-end
+M,2016,528419600,122794042,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+M,2017,685137200,176059925,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+M,2018,593488197,145691329,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+M,2019,752932788,176711601,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+M,2020,1488149510,375226805,3.966,"corrected: BVB December 2020 bulletin used the pre-split share count (22,145,082) with the post-split price 11.20 lei; 1-for-6 split in Dec 2020, so 132,870,492 shares x 11.20 lei"
+M,2021,3175604758,726566627,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+M,2022,2245511314,484510274,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+M,2023,2115298232,470505412,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+M,2024,3082595414,645326456,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+SFG,2014,,,3.6868,not listed on BVB at year-end
+SFG,2015,,,4.1477,not listed on BVB at year-end
+SFG,2016,,,4.3033,not listed on BVB at year-end
+SFG,2017,1579133138,405790348,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+SFG,2018,766286965,188110508,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+SFG,2019,729427592,171194985,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+SFG,2020,570350298,143809959,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+SFG,2021,581990100,133157183,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+SFG,2022,543190760,117203375,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+SFG,2023,997143038,221794350,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+SFG,2024,1563613402,327334911,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+EL,2014,3933336992,1066870183,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+EL,2015,4220467133,1017543972,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+EL,2016,4552569465,1057925189,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+EL,2017,3909121197,1004528125,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+EL,2018,3355617311,823747376,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+EL,2019,3689624308,865946373,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+EL,2020,4347867142,1096285210,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+EL,2021,3478293713,795820741,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+EL,2022,2802728699,604740150,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+EL,2023,3977172493,884641775,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+EL,2024,4482099652,938305906,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+COTE,2014,476596916,129271161,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+COTE,2015,666629656,160722727,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+COTE,2016,682213206,158532569,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+COTE,2017,860558283,221137937,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+COTE,2018,672689925,165134015,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+COTE,2019,689139228,161739398,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+COTE,2020,659703633,166339797,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+COTE,2021,683944712,156484021,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+COTE,2022,586980398,126651793,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+COTE,2023,708185790,157521640,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+COTE,2024,652777611,136655839,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+OIL,2014,52011021,14107362,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+OIL,2015,61446391,14814570,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+OIL,2016,54864929,12749501,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+OIL,2017,92897625,23871932,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+OIL,2018,86199677,21160565,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+OIL,2019,152596726,35814102,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+OIL,2020,110079317,27755753,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+OIL,2021,99304358,22720470,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+OIL,2022,93771270,20232872,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+OIL,2023,380641495,84666021,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+OIL,2024,353666901,74038457,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+RRC,2014,1808477434,490527675,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+RRC,2015,2170172921,523223213,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+RRC,2016,2514224726,584255043,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+RRC,2017,2346609744,603009057,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+RRC,2018,2108420033,517581508,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+RRC,2019,2205460286,517616477,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+RRC,2020,1940805051,489360830,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+RRC,2021,2177854869,498285142,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+RRC,2022,2111456855,455585564,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+RRC,2023,2230973280,496234993,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+RRC,2024,1845864797,386422877,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+BVB,2014,260692506,70709696,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+BVB,2015,207203346,49956204,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+BVB,2016,222551742,51716530,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+BVB,2017,211807864,54428335,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+BVB,2018,169034166,41495033,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+BVB,2019,207670546,48739801,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+BVB,2020,185937582,46882900,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+BVB,2021,205255773,46961762,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+BVB,2022,284138383,61308070,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+BVB,2023,528030537,117449739,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+BVB,2024,362135553,75811328,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+TRP,2014,65834813,17856898,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+TRP,2015,213190399,51399667,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+TRP,2016,283216330,65813755,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+TRP,2017,342764388,88080274,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+TRP,2018,262210092,64368149,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+TRP,2019,378599241,88856375,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+TRP,2020,763521809,192516845,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+TRP,2021,2144136352,490570470,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+TRP,2022,1198450196,258587623,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+TRP,2023,1122185184,249607452,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+TRP,2024,1097348563,229724620,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+VNC,2014,76870894,20850302,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+VNC,2015,103646150,24988825,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+VNC,2016,155901084,36228263,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+VNC,2017,196019873,50371289,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+VNC,2018,177449570,43560872,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+VNC,2019,159910949,37530733,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+VNC,2020,163006000,41100857,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+VNC,2021,206336709,47209076,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+VNC,2022,184117983,39726834,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+VNC,2023,282433181,62821563,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+VNC,2024,236188600,49444942,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+ROCE,2014,28498774,7729948,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+ROCE,2015,34864116,8405650,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+ROCE,2016,34996177,8132405,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+ROCE,2017,35128238,9026915,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+ROCE,2018,30374041,7456314,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+ROCE,2019,31694651,7438662,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+ROCE,2020,40278619,10155981,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+ROCE,2021,73954186,16920444,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+ROCE,2022,94291588,20345140,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+ROCE,2023,105120594,23381955,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+ROCE,2024,79764872,16698391,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+ELMA,2014,135207740,36673468,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+ELMA,2015,135207740,32598245,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+ELMA,2016,115602618,26863713,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+ELMA,2017,96673534,24842229,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+ELMA,2018,93969379,23067895,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+ELMA,2019,112222424,26338346,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+ELMA,2020,76392373,19261819,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+ELMA,2021,67603870,15467516,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+ELMA,2022,98701650,21296692,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+ELMA,2023,143320205,31878688,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+ELMA,2024,148052476,30994071,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+TBM,2014,10713831,2905997,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+TBM,2015,12561044,3028436,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+TBM,2016,35762031,8310374,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+TBM,2017,105291105,27056689,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+TBM,2018,81277344,19952215,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+TBM,2019,131152078,30781092,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+TBM,2020,93468946,23567561,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+TBM,2021,70378791,16102407,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+TBM,2022,67053809,14468090,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+TBM,2023,107877202,23995107,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+TBM,2024,147038105,30781717,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+SNO,2014,31984173,8675321,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+SNO,2015,34611444,8344732,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+SNO,2016,31641485,7352842,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+SNO,2017,33126465,8512518,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+SNO,2018,27415005,6729921,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+SNO,2019,42264800,9919452,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+SNO,2020,42721717,10771991,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+SNO,2021,65110638,14897073,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+SNO,2022,57114595,12323522,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+SNO,2023,61683762,13720308,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+SNO,2024,81673870,17098030,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+IMP,2014,412631862,111921412,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+IMP,2015,261194579,62973354,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+IMP,2016,194506601,45199405,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+IMP,2017,291759902,74973635,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+IMP,2018,275087908,67529435,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+IMP,2019,408920862,95972790,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+IMP,2020,498200000,125617751,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+IMP,2021,1102500000,252247924,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+IMP,2022,851644782,183757990,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+IMP,2023,622173827,138390014,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+IMP,2024,449338867,94066921,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+ONE,2014,,,3.6868,not listed on BVB at year-end
+ONE,2015,,,4.1477,not listed on BVB at year-end
+ONE,2016,,,4.3033,not listed on BVB at year-end
+ONE,2017,,,3.8915,not listed on BVB at year-end
+ONE,2018,,,4.0736,not listed on BVB at year-end
+ONE,2019,,,4.2608,not listed on BVB at year-end
+ONE,2020,,,3.966,not listed on BVB at year-end
+ONE,2021,3336085821,763284101,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+ONE,2022,3169612709,683902108,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+ONE,2023,3752082463,834575040,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+ONE,2024,2377536677,497725816,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+WINE,2014,,,3.6868,not listed on BVB at year-end
+WINE,2015,,,4.1477,not listed on BVB at year-end
+WINE,2016,,,4.3033,not listed on BVB at year-end
+WINE,2017,,,3.8915,not listed on BVB at year-end
+WINE,2018,332000000,81500393,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+WINE,2019,444000000,104205783,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+WINE,2020,440000000,110943016,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+WINE,2021,597750750,136763162,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+WINE,2022,340597575,73490177,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+WINE,2023,575284950,127960530,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+WINE,2024,586736894,122830534,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+AQ,2014,,,3.6868,not listed on BVB at year-end
+AQ,2015,,,4.1477,not listed on BVB at year-end
+AQ,2016,,,4.3033,not listed on BVB at year-end
+AQ,2017,,,3.8915,not listed on BVB at year-end
+AQ,2018,,,4.0736,not listed on BVB at year-end
+AQ,2019,,,4.2608,not listed on BVB at year-end
+AQ,2020,,,3.966,not listed on BVB at year-end
+AQ,2021,1120002240,256252371,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+AQ,2022,662401324,142925241,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+AQ,2023,1104002208,245563016,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+AQ,2024,1386002772,290152984,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+TTS,2014,,,3.6868,not listed on BVB at year-end
+TTS,2015,,,4.1477,not listed on BVB at year-end
+TTS,2016,,,4.3033,not listed on BVB at year-end
+TTS,2017,,,3.8915,not listed on BVB at year-end
+TTS,2018,,,4.0736,not listed on BVB at year-end
+TTS,2019,,,4.2608,not listed on BVB at year-end
+TTS,2020,,,3.966,not listed on BVB at year-end
+TTS,2021,669000000,153064726,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+TTS,2022,687600000,148362318,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+TTS,2023,1620000000,360336314,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+TTS,2024,862200000,180497404,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+H2O,2014,,,3.6868,not listed on BVB at year-end
+H2O,2015,,,4.1477,not listed on BVB at year-end
+H2O,2016,,,4.3033,not listed on BVB at year-end
+H2O,2017,,,3.8915,not listed on BVB at year-end
+H2O,2018,,,4.0736,not listed on BVB at year-end
+H2O,2019,,,4.2608,not listed on BVB at year-end
+H2O,2020,,,3.966,not listed on BVB at year-end
+H2O,2021,,,4.3707,not listed on BVB at year-end
+H2O,2022,,,4.6346,not listed on BVB at year-end
+H2O,2023,57574728576,12806336709,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+H2O,2024,54875913174,11488007280,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+BIO,2014,306670705,83180727,3.6868,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2014.pdf
+BIO,2015,277875848,66995166,4.1477,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2015.pdf
+BIO,2016,266051344,61824959,4.3033,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2016.pdf
+BIO,2017,287729602,73937968,3.8915,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2017.pdf
+BIO,2018,320246988,78615227,4.0736,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2018.pdf
+BIO,2019,357691252,83949317,4.2608,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2019.pdf
+BIO,2020,421740649,106339044,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+BIO,2021,821803041,188025497,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+BIO,2022,606991215,130969494,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+BIO,2023,811949288,180601737,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+BIO,2024,703557999,147286468,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
+BNET,2014,,,3.6868,not listed on BVB at year-end
+BNET,2015,,,4.1477,"traded on AeRO (alternative market), not in BVB main-market table"
+BNET,2016,,,4.3033,"traded on AeRO (alternative market), not in BVB main-market table"
+BNET,2017,,,3.8915,"traded on AeRO (alternative market), not in BVB main-market table"
+BNET,2018,,,4.0736,"traded on AeRO (alternative market), not in BVB main-market table"
+BNET,2019,,,4.2608,"traded on AeRO (alternative market), not in BVB main-market table"
+BNET,2020,159418608,40196321,3.966,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2020.pdf
+BNET,2021,161907236,37043777,4.3707,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2021.pdf
+BNET,2022,156166015,33695684,4.6346,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2022.pdf
+BNET,2023,176301126,39214628,4.4958,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2023.pdf
+BNET,2024,97663213,20445322,4.7768,https://www.bvb.ro/info/Rapoarte/Lunare/DECEMBRIE2024.pdf
